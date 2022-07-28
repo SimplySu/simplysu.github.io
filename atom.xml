@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://simplysu.github.io</id>
+    <title>Sure.site</title>
+    <updated>2022-07-28T03:58:18.046Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://simplysu.github.io"/>
+    <link rel="self" href="https://simplysu.github.io/atom.xml"/>
+    <subtitle>如若天地  · 武破虚空</subtitle>
+    <logo>https://simplysu.github.io/images/avatar.png</logo>
+    <icon>https://simplysu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Sure.site</rights>
+    <entry>
+        <title type="html"><![CDATA[🎵 心经]]></title>
+        <id>https://simplysu.github.io/post/soul/</id>
+        <link href="https://simplysu.github.io/post/soul/">
+        </link>
+        <updated>2021-03-20T10:29:42.000Z</updated>
+        <summary type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1616236230973.jpg" class="music_picture"/></div>
+<h2 id="心经">🎵 <strong>心经</strong></h2>
+<p>💡 心经<br>
+🎤 <a href="https://music.163.com/artist?id=6487" target="_blank">张智霖</a> / <a href="https://music.163.com/artist?id=9621" target="_blank">王菲</a><br>
+📀 <a href="https://music.163.com/#/album?id=513548" target="_blank">心经</a></p>
+<blockquote>
+<p>一般人都觉得佛经难诵念，不容易得以普及化。现在机缘成熟，得蒙众歌星齐发大悲心，将《心经》演唱成流行曲，广结善缘。更得到各有关机构，各唱片公司，各位大德的鼎力支持，不取分文，兼且出资出力，令这套《心经》流行版得以顺利灌录完成。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1616236230973.jpg" class="music_picture"/></div>
+<h2 id="心经">🎵 <strong>心经</strong></h2>
+<p>💡 心经<br>
+🎤 <a href="https://music.163.com/artist?id=6487" target="_blank">张智霖</a> / <a href="https://music.163.com/artist?id=9621" target="_blank">王菲</a><br>
+📀 <a href="https://music.163.com/#/album?id=513548" target="_blank">心经</a></p>
+<blockquote>
+<p>一般人都觉得佛经难诵念，不容易得以普及化。现在机缘成熟，得蒙众歌星齐发大悲心，将《心经》演唱成流行曲，广结善缘。更得到各有关机构，各唱片公司，各位大德的鼎力支持，不取分文，兼且出资出力，令这套《心经》流行版得以顺利灌录完成。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Compare 比较工具]]></title>
+        <id>https://simplysu.github.io/post/code-compare/</id>
+        <link href="https://simplysu.github.io/post/code-compare/">
+        </link>
+        <updated>2021-03-08T06:27:12.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1615184899399.svg" width = "128" height = "128" div align=left />
+<h2 id="code-compare"><strong>Code Compare</strong> 🔥</h2>
+<p>开发者 <a href="https://www.devart.com/" target="_blank">devart</a> |  <a href="https://www.devart.com/codecompare/download.html" target="_blank">下载</a> | 源码：not open | 免费版 + 专业版</p>
+<p>Code Compare is a free compare tool designed to compare and merge differing files and folders. Code Compare integrates with all popular source control systems: TFS, SVN, Git, Mercurial, and Perforce. Code Compare is shipped both as a standalone file diff tool and a Visual Studio extension. Download Devart Code Compare and manage code changes with ease!</p>
+<p><em><strong>Translate：</strong></em> Code Compare 是一个免费的比较工具，旨在比较和合并不同的文件和文件夹。 Code Compare 与所有流行的源代码控制系统集成：TFS，SVN，Git，Mercurial和Perforce。 Code Compare 既作为独立文件差异工具提供，又作为 Visual Studio 扩展提供。下载 Devart 代码轻松比较和管理代码更改！</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Windows</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费版可以完成基本的文件比较功能，并且无版权及时间限制，相对于付费的Beyond Compare，是windows下一个不错的选择！</p>
+]]></summary>
+        <content type="html"><![CDATA[<img src="../../post-images/1615184899399.svg" width = "128" height = "128" div align=left />
+<h2 id="code-compare"><strong>Code Compare</strong> 🔥</h2>
+<p>开发者 <a href="https://www.devart.com/" target="_blank">devart</a> |  <a href="https://www.devart.com/codecompare/download.html" target="_blank">下载</a> | 源码：not open | 免费版 + 专业版</p>
+<p>Code Compare is a free compare tool designed to compare and merge differing files and folders. Code Compare integrates with all popular source control systems: TFS, SVN, Git, Mercurial, and Perforce. Code Compare is shipped both as a standalone file diff tool and a Visual Studio extension. Download Devart Code Compare and manage code changes with ease!</p>
+<p><em><strong>Translate：</strong></em> Code Compare 是一个免费的比较工具，旨在比较和合并不同的文件和文件夹。 Code Compare 与所有流行的源代码控制系统集成：TFS，SVN，Git，Mercurial和Perforce。 Code Compare 既作为独立文件差异工具提供，又作为 Visual Studio 扩展提供。下载 Devart 代码轻松比较和管理代码更改！</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Windows</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费版可以完成基本的文件比较功能，并且无版权及时间限制，相对于付费的Beyond Compare，是windows下一个不错的选择！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎵 启]]></title>
+        <id>https://simplysu.github.io/post/qi/</id>
+        <link href="https://simplysu.github.io/post/qi/">
+        </link>
+        <updated>2021-02-09T08:34:27.000Z</updated>
+        <summary type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612859735076.jpg" class="music_picture"/></div>
+<h2 id="启">🎵 <strong>启</strong></h2>
+<p>💡 AZORAland<br>
+🎤 <a href="https://music.163.com/artist?id=13058503" target="_blank">尤长靖</a><br>
+📀 <a href="https://music.163.com/album?id=97409230" target="_blank">AZORAland·我是尤长靖</a></p>
+<blockquote>
+<p><a href="https://music.163.com/artist?id=13058503" target="_blank">尤长靖</a>：<br>
+撕破黑暗 找寻曙光 欢迎来到AZORAland</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612859735076.jpg" class="music_picture"/></div>
+<h2 id="启">🎵 <strong>启</strong></h2>
+<p>💡 AZORAland<br>
+🎤 <a href="https://music.163.com/artist?id=13058503" target="_blank">尤长靖</a><br>
+📀 <a href="https://music.163.com/album?id=97409230" target="_blank">AZORAland·我是尤长靖</a></p>
+<blockquote>
+<p><a href="https://music.163.com/artist?id=13058503" target="_blank">尤长靖</a>：<br>
+撕破黑暗 找寻曙光 欢迎来到AZORAland</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎵 野孩子]]></title>
+        <id>https://simplysu.github.io/post/wild_child/</id>
+        <link href="https://simplysu.github.io/post/wild_child/">
+        </link>
+        <updated>2021-02-09T07:37:03.000Z</updated>
+        <summary type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612856555057.jpg" class="music_picture"/></div>
+<h2 id="野孩子">🎵 <strong>野孩子</strong></h2>
+<p>💡 单曲<br>
+🎤 <a href="https://music.163.com/#/user/home?id=51785389" target="_blank">阿细</a><br>
+📀 <a href="https://music.163.com/#/album?id=84982601" target="_blank">野孩子</a></p>
+<blockquote>
+<p><a href="https://music.163.com/#/user/home?id=51785389" target="_blank">阿细-CHEUNG</a>：<br>
+总有一个人能让你放下所有的心思，好好爱一场。️❤️希望大家喜欢这个新版本的《野孩子》</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612856555057.jpg" class="music_picture"/></div>
+<h2 id="野孩子">🎵 <strong>野孩子</strong></h2>
+<p>💡 单曲<br>
+🎤 <a href="https://music.163.com/#/user/home?id=51785389" target="_blank">阿细</a><br>
+📀 <a href="https://music.163.com/#/album?id=84982601" target="_blank">野孩子</a></p>
+<blockquote>
+<p><a href="https://music.163.com/#/user/home?id=51785389" target="_blank">阿细-CHEUNG</a>：<br>
+总有一个人能让你放下所有的心思，好好爱一场。️❤️希望大家喜欢这个新版本的《野孩子》</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎵 所念皆星河]]></title>
+        <id>https://simplysu.github.io/post/galaxy/</id>
+        <link href="https://simplysu.github.io/post/galaxy/">
+        </link>
+        <updated>2021-02-08T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612769663951.jpg" class="music_picture"/></div>
+<h2 id="所念皆星河">🎵 <strong>所念皆星河</strong></h2>
+<p>💡 演唱版<br>
+🎤 <a href="https://music.163.com/#/artist?id=1050282" target="_blank">房东的猫</a><br>
+📀 <a href="https://music.163.com/#/album?id=94909256" target="_blank">所念皆星河</a></p>
+<blockquote>
+<p><a href="https://music.163.com/#/user/home?id=3375937" target="_blank">房东的猫房东的猫</a>：<br>
+每一颗星星 是一个愿望<br>
+想要做一个银河交换铺<br>
+留下你们的星星愿望吧</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612769663951.jpg" class="music_picture"/></div>
+<h2 id="所念皆星河">🎵 <strong>所念皆星河</strong></h2>
+<p>💡 演唱版<br>
+🎤 <a href="https://music.163.com/#/artist?id=1050282" target="_blank">房东的猫</a><br>
+📀 <a href="https://music.163.com/#/album?id=94909256" target="_blank">所念皆星河</a></p>
+<blockquote>
+<p><a href="https://music.163.com/#/user/home?id=3375937" target="_blank">房东的猫房东的猫</a>：<br>
+每一颗星星 是一个愿望<br>
+想要做一个银河交换铺<br>
+留下你们的星星愿望吧</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎵 快乐出发]]></title>
+        <id>https://simplysu.github.io/post/happing_load/</id>
+        <link href="https://simplysu.github.io/post/happing_load/">
+        </link>
+        <updated>2021-02-07T01:55:11.000Z</updated>
+        <summary type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612769818450.png" class="music_picture"/></div>
+<h2 id="快乐出发">🎵 <strong>快乐出发</strong></h2>
+<p>💡 湖南卫视2009-2010跨年演唱会主题曲<br>
+🎤 李宇春 / 张杰 / 苏醒 / 王栎鑫 / 魏晨 / 谭维维 / 许飞 / 厉娜 / 张翰 / 朱梓骁 / 郑爽 / 俞灏明 / 至上励合 / 曾轶可 / 江映蓉 / 李霄云 / 刘惜君 / 郁可唯<br>
+📀 <a href="https://music.163.com/#/album?id=511367" target="_blank">快乐出发</a></p>
+<blockquote>
+<p>快乐出发，每天都要快乐呀！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1612769818450.png" class="music_picture"/></div>
+<h2 id="快乐出发">🎵 <strong>快乐出发</strong></h2>
+<p>💡 湖南卫视2009-2010跨年演唱会主题曲<br>
+🎤 李宇春 / 张杰 / 苏醒 / 王栎鑫 / 魏晨 / 谭维维 / 许飞 / 厉娜 / 张翰 / 朱梓骁 / 郑爽 / 俞灏明 / 至上励合 / 曾轶可 / 江映蓉 / 李霄云 / 刘惜君 / 郁可唯<br>
+📀 <a href="https://music.163.com/#/album?id=511367" target="_blank">快乐出发</a></p>
+<blockquote>
+<p>快乐出发，每天都要快乐呀！</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIMP图片编辑器]]></title>
+        <id>https://simplysu.github.io/post/gimp/</id>
+        <link href="https://simplysu.github.io/post/gimp/">
+        </link>
+        <updated>2021-02-03T02:11:43.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1612318814676.png" width = "128" height = "128" div align=left />
+<h2 id="gimp"><strong>GIMP</strong> 🔥</h2>
+<p>开发者 <a href="https://www.gimp.org/team.html" target="_blank">The GIMP Team</a> |  <a href="https://www.gimp.org/downloads/" target="_blank">下载</a> | <a href="https://gitlab.gnome.org/GNOME/gimp" target="_blank">源码</a></p>
+<p>GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.</p>
+<p><em><strong>Translate：</strong></em> GIMP是可用于GNU / Linux，OS X，Windows和更多操作系统的跨平台图像编辑器。它是免费软件，您可以更改其源代码并分发您的更改。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费图片编辑器，功能强大！</p>
+]]></summary>
+        <content type="html"><![CDATA[<img src="../../post-images/1612318814676.png" width = "128" height = "128" div align=left />
+<h2 id="gimp"><strong>GIMP</strong> 🔥</h2>
+<p>开发者 <a href="https://www.gimp.org/team.html" target="_blank">The GIMP Team</a> |  <a href="https://www.gimp.org/downloads/" target="_blank">下载</a> | <a href="https://gitlab.gnome.org/GNOME/gimp" target="_blank">源码</a></p>
+<p>GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.</p>
+<p><em><strong>Translate：</strong></em> GIMP是可用于GNU / Linux，OS X，Windows和更多操作系统的跨平台图像编辑器。它是免费软件，您可以更改其源代码并分发您的更改。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费图片编辑器，功能强大！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[typora Markdown文本编辑器]]></title>
+        <id>https://simplysu.github.io/post/typora/</id>
+        <link href="https://simplysu.github.io/post/typora/">
+        </link>
+        <updated>2021-02-01T11:33:57.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1612179443273.png" width = "128" height = "128" div align=left />
+<h2 id="typora"><strong>typora</strong> 🔥</h2>
+<p>开发者 <a href="https://typora.io/" target="_blank">typora</a> |  <a href="https://typora.io/#download" target="_blank">下载</a></p>
+<p>A minimal Markdown editor and reader.</p>
+<p><em><strong>Translate：</strong></em> 简洁的 Markdown 编辑器和阅读器。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>美观，快捷，支持多种主题样式，Markdown首选，赞！</p>
+]]></summary>
+        <content type="html"><![CDATA[<img src="../../post-images/1612179443273.png" width = "128" height = "128" div align=left />
+<h2 id="typora"><strong>typora</strong> 🔥</h2>
+<p>开发者 <a href="https://typora.io/" target="_blank">typora</a> |  <a href="https://typora.io/#download" target="_blank">下载</a></p>
+<p>A minimal Markdown editor and reader.</p>
+<p><em><strong>Translate：</strong></em> 简洁的 Markdown 编辑器和阅读器。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>美观，快捷，支持多种主题样式，Markdown首选，赞！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[calibre 电子书管理]]></title>
+        <id>https://simplysu.github.io/post/calibre/</id>
+        <link href="https://simplysu.github.io/post/calibre/">
+        </link>
+        <updated>2021-02-01T03:00:38.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1612148535847.png" width = "128" height = "128" div align=left />
+<h2 id="calibre"><strong>calibre</strong> 🔥</h2>
+<p>开发者 <a href="https://launchpad.net/~kovid" target="_blank">KOVID GOYAL</a> |  <a href="https://calibre-ebook.com/download" target="_blank">下载</a> | <a href="https://code.launchpad.net/calibre" target="_blank">源码</a></p>
+<p>calibre is a powerful and easy to use e-book manager. Users say it’s outstanding and a must-have. It’ll allow you to do nearly everything and it takes things a step beyond normal e-book software. It’s also completely free and open source and great for both casual users and computer experts.</p>
+<p><em><strong>Translate：</strong></em> calibre是功能强大且易于使用的电子书管理器。用户说它很棒而且是必须具备的。它使您几乎可以完成所有工作，并且比普通的电子书软件迈出了一步。它也是完全免费和开源的，非常适合临时用户和计算机专家。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux &amp; Unices / Windows / macOS / Android / iOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>开源， 功能强大易用，电子书管理好帮手!</p>
+]]></summary>
+        <content type="html"><![CDATA[<img src="../../post-images/1612148535847.png" width = "128" height = "128" div align=left />
+<h2 id="calibre"><strong>calibre</strong> 🔥</h2>
+<p>开发者 <a href="https://launchpad.net/~kovid" target="_blank">KOVID GOYAL</a> |  <a href="https://calibre-ebook.com/download" target="_blank">下载</a> | <a href="https://code.launchpad.net/calibre" target="_blank">源码</a></p>
+<p>calibre is a powerful and easy to use e-book manager. Users say it’s outstanding and a must-have. It’ll allow you to do nearly everything and it takes things a step beyond normal e-book software. It’s also completely free and open source and great for both casual users and computer experts.</p>
+<p><em><strong>Translate：</strong></em> calibre是功能强大且易于使用的电子书管理器。用户说它很棒而且是必须具备的。它使您几乎可以完成所有工作，并且比普通的电子书软件迈出了一步。它也是完全免费和开源的，非常适合临时用户和计算机专家。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux &amp; Unices / Windows / macOS / Android / iOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>开源， 功能强大易用，电子书管理好帮手!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[diagrams.net (drawio) 绘图]]></title>
+        <id>https://simplysu.github.io/post/drawio/</id>
+        <link href="https://simplysu.github.io/post/drawio/">
+        </link>
+        <updated>2021-01-29T07:50:51.000Z</updated>
+        <summary type="html"><![CDATA[<div align="left" style="float: left;margin-right: 10px;margin-top: 14px"><img src="../../post-images/1611908481741.png" width = "120" height = "120"/></div>
+<h2 id="diagramsnetdrawio"><strong>diagrams.net（drawio）</strong> 🔥</h2>
+<p>开发者 <a href="https://www.diagrams.net" target="_blank">diagrams.net</a> | <a href="https://app.diagrams.net/" target="_blank">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/" target="_blank">桌面版下载</a> | <a href="https://github.com/jgraph/drawio" target="_blank">源码</a></p>
+<p>diagrams.net is a secure, free and open source diagramming app that you can use online, offline (desktop).</p>
+<p><em><strong>Translate：</strong></em> diagrams.net是一个安全，免费和开源的绘图应用程序，您可以在线，离线（桌面）使用。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Web：IE 11 / Chrome 70+ /  Firefox 70+ / Safari 11+ / Opera 50+ / Native Android browser 7x+<br>
+Desktop：Windows / macOS / Linux / Google Chrome OS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>流程图、UML图的不二选择，开源小巧，功能强大，支持Web版和桌面版，以前名字为 draw.io</p>
+]]></summary>
+        <content type="html"><![CDATA[<div align="left" style="float: left;margin-right: 10px;margin-top: 14px"><img src="../../post-images/1611908481741.png" width = "120" height = "120"/></div>
+<h2 id="diagramsnetdrawio"><strong>diagrams.net（drawio）</strong> 🔥</h2>
+<p>开发者 <a href="https://www.diagrams.net" target="_blank">diagrams.net</a> | <a href="https://app.diagrams.net/" target="_blank">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/" target="_blank">桌面版下载</a> | <a href="https://github.com/jgraph/drawio" target="_blank">源码</a></p>
+<p>diagrams.net is a secure, free and open source diagramming app that you can use online, offline (desktop).</p>
+<p><em><strong>Translate：</strong></em> diagrams.net是一个安全，免费和开源的绘图应用程序，您可以在线，离线（桌面）使用。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Web：IE 11 / Chrome 70+ /  Firefox 70+ / Safari 11+ / Opera 50+ / Native Android browser 7x+<br>
+Desktop：Windows / macOS / Linux / Google Chrome OS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>流程图、UML图的不二选择，开源小巧，功能强大，支持Web版和桌面版，以前名字为 draw.io</p>
+]]></content>
+    </entry>
+</feed>
